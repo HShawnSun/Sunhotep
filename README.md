@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Quantitative Mysticism** (A discipline with few researchers that aims to use new technologies to quantify the study of divination, astrology and other occult practices).
 - ⚡ This is one of my works on Quantitative Mysticism: https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg *An Attempt to Evaluate the Validity of the Major Systems of Tarot by Word2Vec Word-Embedding Clustering Model Based on the Barnum Effect*.
 - 📫 email: scyhs4@nottingham.edu.cn
-<img src="https://github.com/Sunhotep/Sunhotep/blob/main/hello-sthtp-welcome.png">
+<img src="https://github.com/Sunhotep/Sunhotep/blob/main/hello-sthtp-welcome.png" width="500">
