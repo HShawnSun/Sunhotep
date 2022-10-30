@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋✨
+I am an interdisciplinary creator who specializes in machine learning, classical Chinese poetry, and religious studies. 
+I search for the digitization ***Tao*** of creation and apply AI technology in traditional areas.
 <!--
 **Sunhotep/Sunhotep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Quantitative Mysticism (A discipline with few researchers that aims to use new technologies to quantify the study of divination, astrology and other occult practices)
+- 🔭 I’m currently working on **Quantitative Mysticism** (A discipline with few researchers that aims to use new technologies to quantify the study of divination, astrology and other occult practices)
+- 📫 email: scyhs4@nottingham.edu.cn
