@@ -1,4 +1,5 @@
 ### Hi there 👋✨
+**He SUN is greeting you here!**
 I am an interdisciplinary creator who specializes in machine learning, classical Chinese poetry, and religious studies. 
 I search for the digitization ***Tao*** of creation and apply AI technology in unexpected areas.
 <!--
