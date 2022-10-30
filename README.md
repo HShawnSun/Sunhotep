@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔮  I’m currently working on **Quantitative Mysticism** (A discipline with few researchers that aims to use new technologies to quantify the study of divination, astrology and other occult practices). This is one of my works published on a WeChat official account: [*An Attempt to Evaluate the Validity of the Major Systems of Tarot by Word2Vec Word-Embedding Clustering Model Based on the Barnum Effect*](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg)  . You may subscribe it if you like this article.
-- :electron: I participated in the research of natural language processing of medical small texts MRC in my freshman summer and I am currently participating in the research of quantum computing compiler of USTC
-- :earth_americas: As team captain and machine learning leader, I led my team to win the 2022 MCM/ICM M Award (First Prize 7%), and to be included as a member of Consortium for Mathematics and its Applications (USA)
+- 🔮 Occultics: I’m currently working on **Quantitative Mysticism** (A discipline with few researchers that aims to use new technologies to quantify the study of divination, astrology and other occult practices). This is one of my works published on a WeChat official account: [*An Attempt to Evaluate the Validity of the Major Systems of Tarot by Word2Vec Word-Embedding Clustering Model Based on the Barnum Effect*](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg)  . You may subscribe it if you like this article.
+- :electron: Research: I participated in the research of natural language processing of medical small texts MRC in my freshman summer and I am currently participating in the research of quantum computing compiler of USTC
+- :earth_americas: Mathematical Modeling: As team captain and machine learning leader, I led my team to win the 2022 MCM/ICM M Award (First Prize 7%), and to be included as a member of Consortium for Mathematics and its Applications (USA)
 - :rosette: Honors: Zhejiang Provincial Scholarship, 2021-2022 University of Nottingham Dean’s Scholarship, Oxford AI & ML Program Outstanding Certification etc.
 - 📫 Email: scyhs4@nottingham.edu.cn
 - 🧸 Check my [Resume/CV](https://github.com/Sunhotep/Sunhotep/blob/main/Long-CV.pdf)
