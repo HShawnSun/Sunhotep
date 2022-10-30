@@ -14,4 +14,4 @@ I am an interdisciplinary creator who specializes in machine learning, classical
 - 📫 Email: scyhs4@nottingham.edu.cn
 - 💬 WeChat: SunHe3627 (notify who you are)
 - 🧸 Check out my [Resume/CV](https://github.com/Sunhotep/Sunhotep/blob/main/Long-CV.pdf)
-<img src="https://github.com/Sunhotep/Sunhotep/blob/main/hello-sthtp-welcome.png" >
+<img src="https://github.com/Sunhotep/Sunhotep/blob/main/hello-sthtp-welcome.png" width="400">
