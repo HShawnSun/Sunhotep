@@ -8,7 +8,7 @@ I am an interdisciplinary creator who specializes in machine learning, classical
 - :earth_americas: Mathematical Modeling: As team captain and machine learning leader, I led my team to win the 2022 MCM/ICM M Award (First Prize 7%) by our paper regarding impact of asteroid mining on global equity using multiple machine learning methods, and to be included as a member of Consortium for Mathematics and its Applications (COMAP, US)
 - :electron: CS-related Researches: I participated in the research of natural language processing of medical small texts MRC in 2022 summer and I am currently participating in the research of quantum computing compiler on China's first high-level quantum language (USTC, online)
 - :rosette: Honors: Zhejiang Provincial Scholarship, 2021-2022 University of Nottingham Dean’s Scholarship, Oxford AI & ML Program Outstanding Certification etc.
-- 💬 WeChat(please note the reason): SunHe3627
+- 💬 WeChat (note your idendity): SunHe3627
 - 📫 Email: scyhs4@nottingham.edu.cn
 - 🧸 Check out my [Resume/CV](https://github.com/Sunhotep/Sunhotep/blob/main/Long-CV.pdf)
 <img src="https://github.com/Sunhotep/Sunhotep/blob/main/hello-sthtp-welcome.png" width="500">
