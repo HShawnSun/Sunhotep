@@ -1,7 +1,7 @@
 ### Hi there :bouquet:
 
 I am an interdisciplinary creator who specializes in machine learning, classical Chinese poetry, and religious studies. 
-I search for the digitization ***Tao*** of creation, applying AI and other cutting-edge technologies in unexpected areas.
+I search for the measurable ***Tao*** of creation, applying AI and other cutting-edge technologies in unexpected areas.
 <!--
 **Sunhotep/Sunhotep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
