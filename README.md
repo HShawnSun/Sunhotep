@@ -4,7 +4,7 @@
 I am an interdisciplinary creator who specializes in machine learning, classical Chinese poetry, and religious studies. I search for the measurable ***Tao*** of creation, applying AI and other cutting-edge technologies in unexpected areas.
 
 ### Insanely Fun
-- :candle:  **Chinese Poetry**: Consistently create metrical poems in Archaic Chinese. See my poetry website [He Sun Poetry](https://www.hesunpoetry.com/) . 
+- :candle:  **Chinese Poetry**: Consistently create metrical poems in Archaic Chinese. See my self-built poetry website [He Sun Poetry](https://www.hesunpoetry.com/) . 
 - :atom: **Mysticism**: I’m currently working on **Quantitative Mysticism** (A discipline with few researchers that aims to use new technologies to quantify the study of divination, astrology and other occult practices). This is one of my works published on a WeChat official account: [*In the AI Era, How to Compare Mysticism Quantitatively?*](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg) (*An Attempt to Evaluate the Validity of the Major Systems of Tarot by Word2Vec Word-Embedding Clustering Model Based on the Barnum Effect*). You may want to subscribe it.
 - :crystal_ball: **Divination**: make Thoth Tarot innovations such as the [Solar](https://github.com/Sunhotep/Sunhotep/blob/main/Solar_Pyramid.png) and [Lunar](https://github.com/Sunhotep/Sunhotep/blob/main/Lunar_Pyramid.png) Pyramid Spread inspired by Djedi's Heka magic from [Westcar Papyrus](https://mjn.host.cs.st-andrews.ac.uk/egyptian/texts/corpus/pdf/Westcar.pdf).
 ### Bit Nerdy But Fun 
