@@ -3,6 +3,33 @@
 
 I am an interdisciplinary creator who specializes in machine learning, classical Chinese poetry, and religious studies. I search for the measurable ***Tao*** of creation, applying AI and other cutting-edge technologies in unexpected areas.
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
 ### Insanely Fun
 - :candle:  **Chinese Poetry**: Consistently create metrical poems in Archaic Chinese. See my self-built poetry website [He Sun Poetry](https://www.hesunpoetry.com/) . 
 - :atom: **Mysticism**: I’m currently working on **Quantitative Mysticism** (A discipline with few researchers that aims to use new technologies to quantify the study of divination, astrology and other occult practices). This is one of my works published on a WeChat official account: [*In the AI Era, How to Compare Mysticism Quantitatively?*](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg) (*An Attempt to Evaluate the Validity of the Major Systems of Tarot by Word2Vec Word-Embedding Clustering Model Based on the Barnum Effect*). You may want to subscribe it.
